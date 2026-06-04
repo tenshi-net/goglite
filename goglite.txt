@@ -19,3 +19,4 @@ www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banne
 www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted > store-picture > .promo-banner.ng-star-inserted > img.ng-star-inserted
 www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted
 www.gog.com##.menu-download__button.menu-download__button--other
+www.gog.com##.why-gog.hide-when-content-is-expanded
