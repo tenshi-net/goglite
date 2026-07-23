@@ -1,22 +1,16 @@
-www.gog.com###a1d97dcf-ba38-465e-8097-4c022ba7e6a4
-www.gog.com##div.usp-banner-line:nth-of-type(1)
-www.gog.com##div.usp-banner-line:nth-of-type(2)
-www.gog.com##.usp-banner-gog
+www.gog.com##.menu-download__button.menu-download__button--other
 www.gog.com##.usp-banner
+www.gog.com##div.usp-banner-line:nth-of-type(2)
+www.gog.com##div.usp-banner-line:nth-of-type(1)
+www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(1) > div.promo-banner.ng-star-inserted > .promo-banner__overlay-link
+www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(1) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted > store-picture > .promo-banner.ng-star-inserted > img.ng-star-inserted
+www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(1) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted
 www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(2) > div.promo-banner.ng-star-inserted > .promo-banner__overlay-link
 www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(2) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted > store-picture > .promo-banner.ng-star-inserted > img.ng-star-inserted
 www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(2) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted
-www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(3) > div.promo-banner.ng-star-inserted > .promo-banner__overlay-link
-www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(3) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted > store-picture > .promo-banner.ng-star-inserted > img.ng-star-inserted
-www.gog.com##promo-banner-section.ng-star-inserted:nth-of-type(3) > div.promo-banner.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted
 www.gog.com##.explore-catalog__anchor
 www.gog.com##.explore-catalog__background--tablet.ng-star-inserted > picture.ng-star-inserted > img.ng-star-inserted
 www.gog.com##.explore-catalog__background-image-wrapper
 www.gog.com##.explore-catalog__content
 www.gog.com##.explore-catalog
 www.gog.com##.footer-microservice-download__button.footer-microservice-download__button--other
-www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banner__overlay-link
-www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted > store-picture > .promo-banner.ng-star-inserted > img.ng-star-inserted
-www.gog.com##.promo-banner.promo-banner--compact.ng-star-inserted > .promo-banner__background-image.promo-banner__background-image--desktop.ng-star-inserted
-www.gog.com##.menu-download__button.menu-download__button--other
-www.gog.com##.why-gog.hide-when-content-is-expanded
